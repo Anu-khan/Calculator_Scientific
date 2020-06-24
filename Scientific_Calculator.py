@@ -1,6 +1,8 @@
 from tkinter import *
 import math
 
+why
+
 root = Tk()
 root.title("Scientific Calculator")
 
