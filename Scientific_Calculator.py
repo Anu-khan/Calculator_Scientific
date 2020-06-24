@@ -18,6 +18,7 @@ def add():
   number_entry.delete(0, END)
 
 
+
 def subtract():
   first_number = number_entry.get()
   global fnum
